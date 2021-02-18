@@ -1,1 +1,1 @@
-# calculator-android
+# Inspired by calculator app on Apple
